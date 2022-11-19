@@ -29,3 +29,4 @@ artifacts:
   files:
     - template-export.yml
     - template-configuration.json
+    yes
